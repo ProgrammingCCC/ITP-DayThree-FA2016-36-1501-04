@@ -1,0 +1,6 @@
+Z:\Visual Studio 2015\Projects\NothingBuntCakes\NothingBuntCakes\bin\Debug\NothingBuntCakes.exe.config
+Z:\Visual Studio 2015\Projects\NothingBuntCakes\NothingBuntCakes\bin\Debug\NothingBuntCakes.exe
+Z:\Visual Studio 2015\Projects\NothingBuntCakes\NothingBuntCakes\bin\Debug\NothingBuntCakes.pdb
+Z:\Visual Studio 2015\Projects\NothingBuntCakes\NothingBuntCakes\obj\Debug\NothingBuntCakes.csprojResolveAssemblyReference.cache
+Z:\Visual Studio 2015\Projects\NothingBuntCakes\NothingBuntCakes\obj\Debug\NothingBuntCakes.exe
+Z:\Visual Studio 2015\Projects\NothingBuntCakes\NothingBuntCakes\obj\Debug\NothingBuntCakes.pdb
